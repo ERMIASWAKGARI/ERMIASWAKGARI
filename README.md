@@ -5,8 +5,6 @@ I'm a **Web Developer** passionate about crafting seamless and visually appealin
 
 ---
 
-<img align="right" src="" width="250px" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Ermias Wakgari Image"/>  
-
 ## 🌟 **About Me**
 - 🔭 Currently working on modern, scalable web applications.  
 - 🌱 Continuously learning the latest trends in **web development**.  
