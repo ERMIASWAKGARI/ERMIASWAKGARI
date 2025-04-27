@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Ermias Wakgari!**  
+# Hi there 👋, I'm Ermias Wakgari!  
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
 I'm a **Web Developer** passionate about crafting seamless and visually appealing web applications. With expertise in both frontend and backend technologies, I bring innovative solutions to life through clean and efficient code.  
